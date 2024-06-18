@@ -1,0 +1,23 @@
+/* styles.css */
+
+.odd {
+    background-color: rgb(255, 146, 180);   
+    font-family: 'Verdana', 'DejaVu Sans', sans-serif;
+  }
+
+  .odd.plus {
+    font-size: 24px;
+  }
+
+  #number2 {
+    color: blue;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 36px;
+  }
+  
+  #number4 {
+    background-color: rgb(104, 255, 104);
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 24px;
+  }
